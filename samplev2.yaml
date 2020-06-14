@@ -1,0 +1,8 @@
+---
+ANumber: 145
+Afloat: 19.8075
+AString: Hello there Ben!
+
+         This is the second line of the string.
+AQuotedString: "Quotes are perfectly accepted.\nThat's right, a new line escape!"
+Acive: true
